@@ -1,0 +1,6 @@
+name = Social Media Profiles
+description = Stores and displays social media profiles
+core = 7.x
+version = 7.x.2
+
+stylesheets[all][] = social_media_profiles.css

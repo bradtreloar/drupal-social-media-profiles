@@ -1,0 +1,21 @@
+/*
+ * Styles for Connect admin UI
+ */
+
+#wrapper--connect-social-profiles {
+  
+  .form-item {
+    float: left;
+    
+    label {
+      font-size: 120%;
+    }
+  }
+  
+  .form-submit {
+    clear: both;
+    display: block;
+  }
+}
+
+
